@@ -2,7 +2,12 @@
 CartPole Project - Balancing the cartpole with only two discrete actions - action space - left or right. There are also 4 Box variables that act as the environment space. PPO algorithm is being used for this project. 
 The project served as an introductory project to Reinforcement Learning. 
 
-Reinforcement Learning
+## Cartpole involves balancing the pole, as shown below, by moving left or right.
+<div align="center">
+    <img src="cartpole.png" height=500, width=800>
+</div> 
+
+## Reinforcement Learning
 
 Focuses on teaching agents through trial and error. 
 Actively engaging with the environment.

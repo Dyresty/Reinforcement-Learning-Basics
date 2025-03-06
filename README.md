@@ -1,5 +1,6 @@
 # Reinforcement-Learning-Basics
-The code is updated for usage as per recent updates, 05-03-2025
+CartPole Project - Balancing the cartpole with only two discrete actions - action space - left or right. There are also 4 Box variables that act as the environment space. PPO algorithm is being used for this project. 
+The project served as an introductory project to Reinforcement Learning. 
 
 Reinforcement Learning
 
